@@ -1,0 +1,7 @@
+.thumbnail-gallery {
+  background-color: #ddd;
+  height: 500px;
+  width: 1024px;
+  margin: 40px auto;
+  display: flex;
+}

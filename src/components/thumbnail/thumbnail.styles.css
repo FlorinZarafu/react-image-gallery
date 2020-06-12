@@ -1,0 +1,10 @@
+.thumbnail {
+  height: 50%;
+  width: 25%;
+  background-color: red;
+  cursor: pointer;
+}
+.thumbnail img {
+  width: 100%;
+  height: 100%;
+}
